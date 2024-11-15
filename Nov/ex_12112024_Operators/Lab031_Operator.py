@@ -4,7 +4,7 @@ age = 30
 # = --> operator
 # 30 --> variable value | Literal
 
-#Unary - operator - which is added to 1 operand
+# Unary - operator - which is added to 1 operand
 
 age = +65
 age2 = -65
@@ -12,8 +12,8 @@ age2 = -65
 print(age)
 print(age2)
 
-#--- Unary operator
+# --- Unary operator
 
-lamb= -1
-lamb= lamb + 1
+lamb = -1
+lamb = lamb + 1
 print(lamb)

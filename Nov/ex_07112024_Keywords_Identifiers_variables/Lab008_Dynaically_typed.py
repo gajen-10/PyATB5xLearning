@@ -1,8 +1,7 @@
 AGE = 34
 age = 98
 
-
-#Dynamic typed: At a runtime data of the varaible can be changed
+# Dynamic typed: At a runtime data of the varaible can be changed
 print(AGE)
 print(age)
 
