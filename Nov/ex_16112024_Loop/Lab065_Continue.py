@@ -7,3 +7,4 @@ for number in range(10):
         #pass
 
         # Pass- Can be used in the statement, functions, classes and objects
+
